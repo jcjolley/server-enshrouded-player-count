@@ -1,5 +1,4 @@
 use std::{env, fs};
-use rouille::Request;
 use rouille::Response;
 
 fn main() {
